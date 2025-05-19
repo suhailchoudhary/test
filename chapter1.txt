@@ -13,8 +13,9 @@ git branch branchname // to create new branch
 git branch -m branchname branchnamenew // to change the branch name in git 
 git switch branchname // locally switching to branch
 git status 
-git diff chapter1.txt // before commiting 
+git diff chapter1.txt // before commiting and adding or stagging 
 git checkout chapter1.txt // rollingback before commiting 
+git push origin main or branchname
 
 
 
