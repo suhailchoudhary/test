@@ -1,0 +1,12 @@
+.git
+npm node_modules
+package-lock.json
+yarn.lock
+dist 
+coverage
+.vscode
+
+.idea
+*.iml
+*.sublime-project
+*.sublime-workspace
